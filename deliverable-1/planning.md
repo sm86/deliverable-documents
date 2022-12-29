@@ -68,13 +68,22 @@ Briefly describe which option you have agreed to.
 
 ----
 
-## Process Details
+## Teamwork Details
 
-#### Q6: What are the roles & responsibilities on the team?
+#### Q6: Have you met with your team?
+
+Do a team-building activity in-person or online. This can be playing an online game, meeting for bubble tea, lunch, or any other activity you all enjoy.
+* Get to know each other on a more personal level.
+* Provide a few sentences on what you did and share a picture or other evidence of your team building activity.
+* Share at least three fun facts from members of you team (total not 3 for each member).
+
+
+#### Q7: What are the roles & responsibilities on the team?
 
 Describe the different roles on the team and the responsibilities associated with each role. 
- * Roles should reflect the structure of your team and be appropriate for your project. Not necessarily one role to one team member.  
+ * Roles should reflect the structure of your team and be appropriate for your project. One person may have multiple roles.  
  * Add role(s) to your Team-[Team_Number]-[Team_Name].csv file on the main folder.
+ * At least one person must be identified as the dedicated partner liaison. They need to have great organization and communication skills.
  * Everyone must contribute to code. Students who don't contribute to code enough will receive a lower mark at the end of the term.
 
 List each team member and:
@@ -82,28 +91,28 @@ List each team member and:
  * Why did you choose them to take that role? Specify if they are interested in learning that part, experienced in it, or any other reasons. Do no make things up. This part is not graded but may be reviewed later.
 
 
-#### Q7: How will you work as a team?
+#### Q8: How will you work as a team?
 
 Describe meetings (and other events) you are planning to have. 
  * When and where? Recurring or ad hoc? In-person or online?
  * What's the purpose of each meeting?
  * Other events could be coding sessions, code reviews, quick weekly sync meeting online, etc.
  * You should have 2 meetings with your project partner (if you have one) before D1 is due. Describe them here:
-   * You must keep track of meeting minutes and add them to your repo under "deliverables/minutes" folder
+   * You must keep track of meeting minutes and add them to your repo under "documents/minutes" folder
    * You must have a regular meeting schedule established for the rest of the term.  
   
-#### Q8: How will you organize your team?
+#### Q9: How will you organize your team?
 
 List/describe the artifacts you will produce in order to organize your team.       
 
  * Artifacts can be To-Do lists, Task boards, schedule(s), meeting minutes, etc.
  * We want to understand:
-   * How do you keep track of what needs to get done?
+   * How do you keep track of what needs to get done? (You must grant your TA and partner access to systems you use to manage work)
    * **How do you prioritize tasks?**
    * How do tasks get assigned to team members?
    * How do you determine the status of work from inception to completion?
 
-#### Q9: What are the rules regarding how your team works?
+#### Q10: What are the rules regarding how your team works?
 
 **Communications:**
  * What is the expected frequency? What methods/channels will be used? 
