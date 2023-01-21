@@ -118,6 +118,6 @@ List/describe the artifacts you will produce in order to organize your team.
  * What is the expected frequency? What methods/channels will be used? 
  * If you have a partner project, what is your process for communicating with your partner?
  
-**Collaboration:**
+**Collaboration: (Share your responses to Q8 & Q9 from A1)**
  * How are people held accountable for attending meetings, completing action items? Is there a moderator or process?
- * How will you address the issue if one person doesn't contribute or is not responsive?
+ * How will you address the issue if one person doesn't contribute or is not responsive? 
