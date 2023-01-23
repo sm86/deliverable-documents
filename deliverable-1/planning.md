@@ -35,6 +35,7 @@
     * Provide users with more accurate and/or informative data (what kind of data? Why is it useful to them?)
     * Does this application exist in another form? If so, how does your differ and provide value to the users?
     * How does this align with your partner's organization's values/mission/mandate?
+    * If this project is extending an existing project, please share about how your contributions will make the product better and why.
 
 #### Q4: What are the user stories that make up the Minumum Viable Product (MVP)?
 
@@ -42,6 +43,7 @@
  * You must follow proper user story format (as taught in lecture) ```As a <user of the app>, I want to <do something in the app> in order to <accomplish some goal>```
  * User stories must contain acceptance criteria. Examples of user stories with different formats can be found here: https://www.justinmind.com/blog/user-story-examples/. **It is important that you provide a link to an artifact containing your user stories**.
  * If you have a partner, these must be reviewed and accepted by them. You need to include the evidence of partner approval (e.g., screenshot from email) or at least communication to the partner (e.g., email you sent)
+ * If this project is extending an existing project, please share about the components you will focus on and features you would be working to have MVP. (Please clearly specify what is being built from what is already there)
 
 #### Q5: Have you decided on how you will build it? Share what you know now or tell us the options you are considering.
 
@@ -50,6 +52,7 @@
  * How will you deploy the application?
  * Describe the architecture - what are the high level components or patterns you will use? Diagrams are useful here. 
  * Will you be using third party applications or APIs? If so, what are they?
+
 
 ----
 ## Intellectual Property Confidentiality Agreement 
